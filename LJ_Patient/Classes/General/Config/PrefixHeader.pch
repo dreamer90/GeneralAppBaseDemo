@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  LJ_Patient
+//
+//  Created by hyfsoft on 2017/6/27.
+//  Copyright © 2017年 LvJing. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "AppConfig.h"
+#import "UIBarButtonItem+LVJExtension.h"
+#import "UIView+Extension.h"
+#import <MJRefresh/MJRefreshGifHeader.h>
+#import <Masonry/Masonry.h>
+
+#endif /* PrefixHeader_pch */
